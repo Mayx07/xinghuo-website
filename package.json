@@ -1,0 +1,19 @@
+{
+  "name": "xinghuo-website",
+  "version": "1.0.0",
+  "description": "星火集 - 游戏创作者与创意行业综合平台",
+  "main": "index.html",
+  "scripts": {
+    "dev": "python -m http.server 8080",
+    "preview": "python -m http.server 8080"
+  },
+  "keywords": [
+    "游戏开发",
+    "创作平台",
+    "Unity",
+    "游戏美术",
+    "游戏音乐"
+  ],
+  "author": "星火集团队",
+  "license": "MIT"
+}
